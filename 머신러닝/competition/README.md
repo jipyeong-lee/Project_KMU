@@ -4,8 +4,13 @@
 * RMSE(Root Mean Square Error)
 ## 접근방법
 * 고객 ID별로 나이를 예측하는 Regression 문제
-* 
-* 
+* groupby와 unstack을 통한 multi-groupby feature 생성
+* 구입브랜드명 fasttext를 통한 embedding
+* 구입시간, 구입물건 관련 범주형 변수 합침 -> fasttext를 통한 embedding
+* sklearn의 SelectFromModel을 이용한 feature selection(threshold : 5.0 * mean)
+* Bayesian Opt를 통한 하이퍼파라미터 튜닝
+* LightGBM
+* keras를 이용한 NN모델 앙상블
 ## REVIEW
 * 차원의 저주를 직접 경험해 본 대회였다.
 * 
