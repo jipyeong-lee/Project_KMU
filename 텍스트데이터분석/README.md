@@ -1,6 +1,7 @@
 # 네이버 웹툰 댓글 크롤링
 * 한 회당 베스트 댓글 15개씩 크롤링
-![image](https://user-images.githubusercontent.com/77089771/148398199-dc29fb42-f843-4686-a22a-995ac1822dd2.png)
+
+![image](https://user-images.githubusercontent.com/77089771/148398199-dc29fb42-f843-4686-a22a-995ac1822dd2.png) 
 ![image](https://user-images.githubusercontent.com/77089771/148398272-b1d16927-05d6-4b19-8e01-f9e67f0c3a12.png)
 # 네이버 웹툰 댓글 분석
 ![image](https://user-images.githubusercontent.com/77089771/148397778-c362871c-67d8-4206-9e06-f6031c6a1643.png)
